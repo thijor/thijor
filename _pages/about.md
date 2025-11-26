@@ -5,8 +5,7 @@ layout: single
 author_profile: true
 ---
 
-I aim to unravel the neural mechanisms underlying human perception and develop sophisticated machine learning methods to model and decode signals from the human brain. 
-Combining these two efforts (i.e., artificial intelligence and cognitive neuroscience), I work towards assistive devices by advancing neurotechnological systems including (non-invasive) brain-computer interfacing, for instance for communication and control.
+I am an Assistant Professor in Artificial Intelligence and Cognitive Neuroscience at Radboud University. I am affiliated with the Machine Learing & Neural Computing department of the Donders Institute for Brain, Cognition and Behaviour. 
 
 ## Education
 * 2021: Ph.D in Cognitive Neuroscience, Radboud University
