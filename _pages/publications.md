@@ -33,7 +33,7 @@ author_profile: true
 ## 2019
 * Thielen, J., Bosch, S. E., van Leeuwen, T. M., van Gerven, M. A., & van Lier, R. (2019). Evidence for confounding eye movements under attempted fixation and active viewing in cognitive neuroscience. _Scientific Reports_, 9(1), 17456. doi: [10.1038/s41598-019-54018-z](https://doi.org/10.1038/s41598-019-54018-z)
 * Thielen, J., Güçlü, U., Güçlütürk, Y., Ambrogioni, L., Bosch, S. E., & van Gerven, M. A. J. (2019). DeepRF: Ultrafast population receptive field mapping with deep learning. _bioRxiv_: 732990. [10.1101/732990](https://doi.org/10.1101/732990)
-* Desain, P. W. M., Thielen, J., van den Broek, P. L. C., & Farquhar, J. D. R. (2019). U.S. Patent No. 10,314,508. Washington, DC: U.S. _Patent and Trademark Office_.
+* Desain, P. W. M., Thielen, J., van den Broek, P. L. C., & Farquhar, J. D. R. (2019). Brain computer interface using broadband evoked potentials. U.S. Patent No. 10,314,508. Washington, DC: U.S. _Patent and Trademark Office_. [link](https://patentimages.storage.googleapis.com/40/a3/bb/65db00c7de99ec/US10314508.pdf)
 * Thielen, J., Bosch, S. E., van Leeuwen, T. M., van Gerven, M. A., & van Lier, R. (2019). Neuroimaging findings on amodal completion: A review. _i-Perception_, 10(2), 2041669519840047. doi: [10.1177/204166951984004](https://doi.org/10.1177/204166951984004)
 * Borhanazad, M., Thielen, J., Farquhar, J., & Desain, P. (2019). The effect of high and low frequencies in c-VEP BCI. In _8th Graz Brain-Computer Interface Conference 2019_. doi: [10.3217/978-3-85125-682-6-24](https://doi.org/10.3217/978-3-85125-682-6-24)
 
@@ -44,7 +44,7 @@ author_profile: true
 * Thielen, J., Marsman, P., Farquhar, J., & Desain, P. (2017). Re(con)volution: accurate response prediction for broad-band evoked potentials-based brain computer interfaces. In _Brain-Computer Interface Research: A State-of-the-Art Summary_, 6, 35-42. Cham: Springer International Publishing. doi: [10.1007/978-3-319-64373-1_4](https://doi.org/10.1007/978-3-319-64373-1_4)
 
 ## 2016
-* Güçlü, U., Thielen, J., Hanke, M., & Van Gerven, M. (2016). Brains on beats. _Advances in Neural Information Processing Systems_, 29. 
+* Güçlü, U., Thielen, J., Hanke, M., & Van Gerven, M. (2016). Brains on beats. In _Advances in Neural Information Processing Systems_, 29. doi: [10.48550/arXiv.1606.02627](https://doi.org/10.48550/arXiv.1606.02627) 
 
 ## 2015
 * Thielen, J., Van Den Broek, P., Farquhar, J., & Desain, P. (2015). Broad-band visually evoked potentials: re(con)volution in brain-computer interfacing. _PLOS One_, 10(7), e0133797. doi: [10.1371/journal.pone.0133797](https://doi.org/10.1371/journal.pone.0133797)
