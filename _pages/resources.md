@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Software
-* The Python Noise-Tagging Brain-Computer Interfacing (PyNTBCI) library, which contains stimulus creation as well as EEG encoding and decoding methods. Find it on [GitHub](https://github.com/thijor/pyntbci).
+* The Python Noise-Tagging Brain-Computer Interfacing (PyNTBCI) library, which contains stimulus creation as well as EEG encoding and decoding methods. Find it on [GitHub](https://github.com/thijor/pyntbci) and [PyPI](https://pypi.org/project/pyntbci/).
 * The c-VEP BCI online demo using the Dareplane framework. Find it on GitHub [GitHub](https://github.com/thijor/dp-cvep).
 
 ## Datasets
