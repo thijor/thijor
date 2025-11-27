@@ -1,12 +1,11 @@
 main:
   - title: "Research"
     url: /research/
-
   - title: "Publications"
     url: /publications/
-
   - title: "Teaching"
     url: /teaching/
-
   - title: "Resources"
     url: /resources/
+  - title: "Outreach"
+    url: /outreach/
