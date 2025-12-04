@@ -25,6 +25,9 @@ author_profile: true
 * Invited lecture about AI for high-school students at the [Radboud Social Sciences plus programme](https://www.ru.nl/over-ons/agenda/radboud-social-sciences)
 * Invited lecture on AI in the [What about Perception](https://www.aanmelder.nl/wadcursussen) course for psychiatrists organized by Maastricht University
 
+## 2021
+* Book chapter on AI for primary school students in [Wetenschappelijke doorbraken de klas in! Book 10](https://www.wetenschapdeklasin.nl/)
+
 ## 2016
 * Documentary about BCI on Dutch TV [NPO's Proefkonijnen](https://npo.nl/start/serie/proefkonijnen_2) broadcasted on September 5th 2016
 * Documentary about BCI on Dutch TV RTL 5's Galileo broadcasted on March 28th 2016
