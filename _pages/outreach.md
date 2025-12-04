@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 ## 2025
+* Article on AI and BCI on NEMO [Kennislink](https://www.nemokennislink.nl/publicaties/ai-en-eeg-zetten-je-brein-om-in-actie/)
 * Article on current state and challenges of BCI on [Tweakers](https://tweakers.net/reviews/13598/hersenchips-geven-patienten-hun-spraak-terug-en-bedrijven-toegang-tot-hun-brein.html)
 * Video on the need for IT colleagues for research at the [Radboud University](https://www.youtube.com/watch?v=Ch_3fIIA0mQ&t=1s)
 		
