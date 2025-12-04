@@ -9,6 +9,9 @@ author_profile: true
 * The Python Noise-Tagging Brain-Computer Interfacing (PyNTBCI) library, which contains stimulus creation as well as EEG encoding and decoding methods. Find it on [GitHub](https://github.com/thijor/pyntbci) and [PyPI](https://pypi.org/project/pyntbci/).
 * The c-VEP BCI online demo using the Dareplane framework. Find it on GitHub [GitHub](https://github.com/thijor/dp-cvep).
 
+## Literature overview
+* I maintain a (attempted to be) exhaustive list of scientific publications on brain-computer interfacing (BCI) studies that use the code-modulated visual evoked potential (c-VEP). Find it on [GitHub](https://github.com/thijor/cvep-literature). 
+
 ## Datasets
 * Thielen, J. (2025). Binary stimulus sequences for brain-computer interfaces (BCI) using the code-modulated-visual evoked potential (c-VEP). _Radboud Data Repository_. doi: [10.34973/6dw9-0924](https://doi.org/10.34973/6dw9-0924)
 * Dold, M. R., Pereira, J., Sajonz, B., Coenen, V. A., Thielen, J., Janssen, M. L. F., & Tangermann, M. W. (2024). LFP and ECoG data during CopyDraw task with deep brain stimulation-Dareplane data for proof of concept paper. _Radboud Data Repository_. doi: [10.34973/d214-m342](https://doi.org/10.34973/d214-m342)
